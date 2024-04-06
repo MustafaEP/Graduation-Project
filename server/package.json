@@ -66,6 +66,6 @@
   "dependencies": {
     "express": "^4.19.2",
     "mongodb": "6.5",
-    "sequelize": "^6.37.2"
+    "mongoose": "^8.3.0"
   }
 }
